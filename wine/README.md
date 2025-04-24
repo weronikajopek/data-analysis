@@ -18,7 +18,7 @@ Exploratory data analysis of the [UCI Wine Dataset](https://archive.ics.uci.edu/
 
 - `pandas`, `numpy`, `seaborn`, `matplotlib`, `scipy`
 
-## ▶How to Run
+## How to Run
 
 1. Download the `wine_data.csv` file
 2. Run the notebook to generate plots and analysis
